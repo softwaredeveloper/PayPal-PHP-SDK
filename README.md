@@ -13,6 +13,7 @@ __Welcome to PayPal PHP SDK__. This repository contains PayPal's PHP SDK and sam
 [ Our PayPal-PHP-SDK Page ](http://paypal.github.io/PayPal-PHP-SDK/) includes all the documentation related to PHP SDK. Everything from SDK Wiki, to Sample Codes, to Releases. Here are few quick links to get you there faster.
 
 * [ PayPal-PHP-SDK Home Page ](http://paypal.github.io/PayPal-PHP-SDK/)
+* [ Paypal integration programmer ](https://www.phpfreelanceprogrammer.com/paymentgatewayintegration.html)
 * [ Wiki ](https://github.com/paypal/PayPal-PHP-SDK/wiki)
 * [ Samples ](http://paypal.github.io/PayPal-PHP-SDK/sample/)
 * [ Installation ](https://github.com/paypal/PayPal-PHP-SDK/wiki/Installation)
